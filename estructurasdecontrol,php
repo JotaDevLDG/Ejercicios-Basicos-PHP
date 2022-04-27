@@ -1,0 +1,9 @@
+<?php
+//condicional si
+if ($a > $b) {
+  echo "a es mayor que b";
+}
+
+//otra forma de usar el si
+$var = true ? 1:0; 
+?>
