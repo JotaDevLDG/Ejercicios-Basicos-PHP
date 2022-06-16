@@ -14,4 +14,8 @@ function suma($a,$b){
 function suma($a,$b){
   return 'sii';
 }
+//Funcion con retorno de valor con afecto a parametro
+function suma2($a,$b){
+  return ($a + $b);
+}
 ?>
