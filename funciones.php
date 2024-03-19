@@ -18,4 +18,11 @@ function suma($a,$b){
 function suma2($a,$b){
   return ($a + $b);
 }
+
+//funcion con uso de variable externa  
+$a = 3;
+
+function externa(){
+  return 4*$a;
+}
 ?>
